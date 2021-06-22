@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Screen Rotate</string>
+    <string name="start">Start</string>
+    <string name="service">Service</string>
+    <string name="startservice">Start Service</string>
+    <string name="stopservice">Stop Service</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="describe">Use this to rotate your UI!</string>
+    <string-array name="spinnername">
+        <item>0</item>
+        <item>90 </item>
+        <item>180</item>
+        <item>270</item>
+    </string-array>
+</resources>
